@@ -29,11 +29,11 @@ return ( <main className="min-h-screen bg-white">
 
   {/* Hero Section */}
   <section className="text-center py-24 px-6">
-    <h1 className="text-5xl md:text-6xl font-bold text-gray-900">
+    <h1 className="text-5xl md:text-6xl font-bold text-black">
       Trusted Help For Every Home
     </h1>
 
-    <p className="mt-6 text-xl text-gray-600 max-w-3xl mx-auto">
+    <p className="mt-6 text-xl text-gray-800 max-w-3xl mx-auto">
       Hire verified maids, cooks, drivers, babysitters and caregivers near you.
     </p>
 
